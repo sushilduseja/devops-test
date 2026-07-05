@@ -1,4 +1,4 @@
-# Animal Farm
+# DevOps Test App
 
 [![CI](https://github.com/sushilduseja/devops-test/actions/workflows/test.yml/badge.svg)](https://github.com/sushilduseja/devops-test/actions/workflows/test.yml)
 ![Node](https://img.shields.io/badge/node-%3E%3D22-brightgreen)
