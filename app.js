@@ -14,7 +14,7 @@ var animals = {
 }
 
 function getAnimal() {
-  return animal = _.sample(Object.entries(animals));
+  return _.sample(Object.entries(animals));
 }
 
 const app = express();
